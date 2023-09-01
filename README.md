@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Catalin567
 - 👀 I’m interested in...
-- 🌱 I’m currently learning Python 3.0
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me instagram:a.catalin.777
 
